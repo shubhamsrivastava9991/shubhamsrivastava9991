@@ -19,7 +19,7 @@
 - ⭐ My hobby is to play cricket 🏏 and listening music🎵
 
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamsrivastava9991&&show_icons=true&title_color=ffa805&icon_color=ffa805&text_color=daf7dc&bg_color=000000"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamsrivastava9991&&show_icons=true&title_color=ff4500&icon_color=ba55d3&text_color=d8be9c&bg_color=000000"></p>
 
 <hr>
 
