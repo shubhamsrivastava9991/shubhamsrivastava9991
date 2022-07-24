@@ -13,7 +13,7 @@
 
 <hr>
 
-- 📜 Pursuing MCA from Lovely Professional University
+- 📜 Completed MCA from Lovely Professional University
 - 🌱 I’m currently learning Reactjs 
 - 💞️ I’m looking to collaborate on open source 
 - ⭐ My hobby is to play cricket 🏏 and listening music🎵
