@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Srivastava</h1>
-<h3 align="center">A passionate Web developer.</h3>
+<h3 align="center">A passionate Software Engineer.</h3>
 
 <hr>
 
